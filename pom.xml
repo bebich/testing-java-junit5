@@ -108,7 +108,7 @@
 <!--                    <groups>-->
 <!--                        models | controllers-->
 <!--                    </groups>-->
-                    <excludedGroups>controllers</excludedGroups>
+<!--                    <excludedGroups>controllers</excludedGroups>-->
                 </configuration>
             </plugin>
             <plugin>
